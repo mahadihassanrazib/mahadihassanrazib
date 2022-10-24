@@ -1,14 +1,13 @@
-<h2>👋  Hi there  !! I'm SHAKIL</h2>
+<h2>👋  Hi there  !! I'm Md. Mahadi Hassan Razib</h2>
 
 #### 📫 &nbsp; Reach me:
 
-[![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/shakilmahammudofficial0/)
+[![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/agun21st/)
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@shakil.mit.bd)
-[![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:shakil.mit.bd@gmail.com)
-[![CV](https://img.shields.io/badge/social--badge?style=social&label=DownLoadCV&logo=gmail)](https://drive.google.com/file/d/1PcdEQ-O7wEOJxK4QwGr1z4IiOraML-Qz/view?usp=sharing)
-[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/md-shakil-829802169/)
+[![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:mahadihassanrazib@gmail.com)
+[![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/agun21st/)
 
-<img width="550px" alt="Shakil Mahammud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=shakilmahammud&show_icons=true"/>
+<img width="550px" alt="Shakil Mahammud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=agun21st&show_icons=true"/>
 </br>
 
 **Languages and Tools:**  
