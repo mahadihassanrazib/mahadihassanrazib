@@ -6,7 +6,8 @@
 [![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:mahadihassanrazib@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/agun21st/)
 
-<img width="550px" alt="Md. Mahadi Hassan Razib Github Status"  src="https://github-readme-stats.vercel.app/api?username=agun21st&show_icons=true"/><img src="https://api.daily.dev/devcards/b3cd31a79850494aaf246ea93c8f3fd5.png?r=zl0" width="400" alt="Md. Mahadi Hassan Razib's Dev Card"/>
+<img width="550px" alt="Md. Mahadi Hassan Razib Github Status"  src="https://github-readme-stats.vercel.app/api?username=agun21st&show_icons=true"/>
+<code><img style="margin-left:20px;" src="https://api.daily.dev/devcards/b3cd31a79850494aaf246ea93c8f3fd5.png?r=zl0" width="400" alt="Md. Mahadi Hassan Razib's Dev Card"/></code>
 
 </br>
 **Languages and Tools:**  
