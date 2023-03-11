@@ -15,6 +15,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="github"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" title="MySQL"></code>
+<code>
+  <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+</code>
 <br>
 <br>
 
@@ -29,7 +34,7 @@
 <a href="https://www.docker.com/" target="_blank" title="Docker Container">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="75" /> 
 </a>
-<a href="https://www.docker.com/" target="_blank" title="Docker Container">
+<a href="https://kubernetes.io/" target="_blank" title="Docker Container">
 <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo-500x281.jpg"  height="75" /> 
 </a>
 <a href="https://www.jenkins.io/" target="_blank" title="jenkins">
@@ -37,10 +42,15 @@
 <a href="https://www.ansible.com/" target="_blank" title="Ansible is Simple IT Automation">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"  height="60" /> 
 </a>
+<a href="https://grpc.io/" target="_blank" >
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
 </a>
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" title="CICD with Gitgub, Gitlab"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="75" /></a>
 <a href="https://www.terraform.io/" target="_blank" title="Terraform">
 <img height="50" src="https://camo.githubusercontent.com/1a4ed08978379480a9b1ca95d7f4cc8eb80b45ad47c056a7cfb5c597e9315ae5/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" title="Terraform">
+</a>
+<a href="https://prometheus.io/" target="_blank" >
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="75" />
 </a>
 </p>
 
