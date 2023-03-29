@@ -25,6 +25,9 @@
 
 #### DevOps:
 <p float="left">
+  <a href="[https://aws.amazon.com/](https://ubuntu.com/download/desktop/thank-you?version=22.04.2&architecture=amd64)" target="_blank" title="Linux">
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
+  </a>
 <a href="https://aws.amazon.com/" target="_blank" title="AWS">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
 </a>
@@ -52,6 +55,12 @@
 <a href="https://prometheus.io/" target="_blank" >
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="75" />
 </a>
+  <a href="https://grafana.com" target="_blank" title="Grafana" >
+    <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="75" />
+  </a>
+  <a href="[https://prometheus.io/](https://argo-cd.readthedocs.io/en/stable/)" target="_blank" title="Argo CD">
+    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="Argo CD" height="75" />
+  </a>
 </p>
 
 #### 📫 &nbsp; Reach me:
