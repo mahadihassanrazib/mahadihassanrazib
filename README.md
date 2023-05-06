@@ -15,11 +15,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="github"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" title="MySQL"></code>
-<code>
-  <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-</code>
+<code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" title="Postgress SQL"/></code>
+<code><img src="https://esl.github.io/MongooseDocs/latest/MongooseIM_logo.png" height="60" title="MongooseIM"/></code>
+<code><img src="https://miro.medium.com/v2/format:webp/1*KQyachTTd_FXWyHAUzyZzg.png" height="60" title="MinIO S3 Object Storage"/></code>
 <br>
 <br>
 
