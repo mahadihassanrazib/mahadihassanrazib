@@ -1,15 +1,16 @@
-<h2>👋  Hi there  !! I'm Md. Mahadi Hassan Razib</h2>
+<h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am a Full-stack Software Engineer, AWS Cloud Practitioner, Apache Kafka Developer and MT4 EA Developer. I am Passionate about developing production-ready applications more than 6+ years of professional working experience. 🎯</p>
+<p>I am currently working as a Sr. Solution Architect at Easital Technologies Ltd. I am also practicing Devops Culture, AWS Cloud Services, Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready applications pipelines more than 8+ years of professional working experiences. 🎯</p>
 
 #### ** I mostly work with MVC Frameworks and Cloud based technologies. 🚀 **
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"></code>
+<code><img height="50" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" title="Golang"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" title="PHP"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue.js"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="node.js"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" title="node.js"></code>
 <code><a href="https://python.org/" target="_blank" title="Python"><img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="50" />
 </a></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="github"></code>
@@ -35,8 +36,11 @@
 <a href="https://www.docker.com/" target="_blank" title="Docker Container">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="75" /> 
 </a>
-<a href="https://kubernetes.io/" target="_blank" title="Docker Container">
+<a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
 <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo-500x281.jpg"  height="75" /> 
+</a>
+  <a href="https://cloudnative-pg.io/" target="_blank" title="Cloudnativepg">
+<img src="https://dok.community/wp-content/uploads/2022/05/Screenshot-2022-05-14-at-3.14.26-PM.png"  height="75" /> 
 </a>
 <a href="https://www.jenkins.io/" target="_blank" title="jenkins">
 <img src="https://camo.githubusercontent.com/7ce6d4521e84c41b8edc0a78ae193d9ce019934c7936924fd2e74543e876704d/68747470733a2f2f7777772e6a656e6b696e732e696f2f696d616765732f6a656e6b696e732d6c6f676f2d7469746c652e737667" height="65"/>
@@ -48,7 +52,7 @@
 </a>
 <a href="https://docs.gitlab.com/ee/ci/" target="_blank" title="CICD with Gitgub, Gitlab"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="75" /></a>
 <a href="https://www.terraform.io/" target="_blank" title="Terraform">
-<img height="50" src="https://camo.githubusercontent.com/1a4ed08978379480a9b1ca95d7f4cc8eb80b45ad47c056a7cfb5c597e9315ae5/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" title="Terraform">
+<img height="100" src="https://quintagroup.com/services/service-images/terraform-and-terragrunt.jpg" title="Terraform">
 </a>
 <a href="https://prometheus.io/" target="_blank" >
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="75" />
@@ -56,8 +60,20 @@
   <a href="https://grafana.com" target="_blank" title="Grafana" >
     <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="75" />
   </a>
-  <a href="[https://prometheus.io/](https://argo-cd.readthedocs.io/en/stable/)" target="_blank" title="Argo CD">
-    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" alt="Argo CD" height="75" />
+  <a href="https://grafana.com/docs/loki/latest/" target="_blank" title="Loki" >
+    <img src="https://grafana.com/docs/loki/latest/logo_and_name.png" alt="Loki" height="70" />
+  </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" title="Argo CD">
+    <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="Argo CD" height="75" />
+  </a>
+  <a href="#" target="_blank" title="Helm Chart">
+    <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="Helm Chart" height="75" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka">
+    <img src="https://miro.medium.com/v2/resize:fit:975/1*8GbrXbHdH5uPGMb5epWhrg.png" alt="Apache Kafka" height="75" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" title="Rabbitmq">
+    <img src="https://pedrorijo.com/assets/img/rabbitmq_logo.png" alt="Rabbitmq" height="75" />
   </a>
 </p>
 
