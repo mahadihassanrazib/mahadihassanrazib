@@ -66,9 +66,6 @@
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" title="Argo CD">
     <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="Argo CD" height="75" />
   </a>
-  <a href="#" target="_blank" title="Helm Chart">
-    <img src="https://cncf-branding.netlify.app/img/projects/helm/icon/color/helm-icon-color.png" alt="Helm Chart" height="75" />
-  </a>
   <a href="https://kafka.apache.org/" target="_blank" title="Apache Kafka">
     <img src="https://miro.medium.com/v2/resize:fit:975/1*8GbrXbHdH5uPGMb5epWhrg.png" alt="Apache Kafka" height="75" />
   </a>
