@@ -1,6 +1,6 @@
 <h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am currently working as a Sr. Solutions Architect and DevOps Engineer at Easital Technologies Ltd. I am also practicing Devops Culture, AWS Cloud Services, Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready applications pipelines more than 8+ years of professional working experiences. 🎯</p>
+<p>I am currently working as a DevOps Engineer at Easital Technologies Ltd. I am managing AWS Cloud Services, Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 6+ years of professional working experiences. 🎯</p>
 
 #### ** I mostly work with Cloud based build and release automation technologies. 🚀 **
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
