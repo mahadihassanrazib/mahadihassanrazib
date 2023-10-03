@@ -76,7 +76,7 @@
     <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" height="75" />
   </a>
   <a href="https://trivy.dev/" target="_blank" title="Trivy">
-    <img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" alt="Trivy" height="75" />
+    <img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" alt="Trivy" height="75" style="max-width: 100%;background: gray;padding: 5px;"/>
   </a>
 </p>
 
