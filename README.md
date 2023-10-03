@@ -72,6 +72,12 @@
   <a href="https://www.rabbitmq.com/" target="_blank" title="Rabbitmq">
     <img src="https://pedrorijo.com/assets/img/rabbitmq_logo.png" alt="Rabbitmq" height="75" />
   </a>
+  <a href="https://owasp.org" target="_blank" title="OWASP">
+    <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" height="75" />
+  </a>
+  <a href="https://trivy.dev/" target="_blank" title="Trivy">
+    <img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" alt="Trivy" height="75" />
+  </a>
 </p>
 
 #### 📫 &nbsp; Reach me:
