@@ -76,7 +76,10 @@
     <img src="https://owasp.org/assets/images/logo.png" alt="OWASP" height="75" />
   </a>
   <a href="https://trivy.dev/" target="_blank" title="Trivy">
-    <img src="https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg" alt="Trivy" height="75" style="max-width: 100% !important;background: gray !important;padding: 5px !important;"/>
+    <img src="https://sysaix.com/wp-content/uploads/2022/12/image-7.png" alt="Trivy" height="75"/>
+  </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" title="SonarQube">
+    <img src="https://wiki.eclipse.org/images/8/88/Sonarqube.png" alt="SonarQube" height="75" />
   </a>
 </p>
 
