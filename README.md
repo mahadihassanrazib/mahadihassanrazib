@@ -1,6 +1,6 @@
 <h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am currently working as a DevOps Engineer at Easital Technologies Ltd. I am managing AWS Cloud Services, Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 6+ years of professional working experiences. 🎯</p>
+<p>I am currently working as a Senior DevOps Engineer at BJIT Ltd. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 3-5 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 8+ years of professional working experiences. 🎯</p>
 
 #### ** I mostly work with Cloud based build and release automation technologies. 🚀 **
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
@@ -43,7 +43,7 @@
 <img src="https://dok.community/wp-content/uploads/2022/05/Screenshot-2022-05-14-at-3.14.26-PM.png"  height="75" /> 
 </a>
 <a href="https://www.jenkins.io/" target="_blank" title="jenkins">
-<img src="https://camo.githubusercontent.com/7ce6d4521e84c41b8edc0a78ae193d9ce019934c7936924fd2e74543e876704d/68747470733a2f2f7777772e6a656e6b696e732e696f2f696d616765732f6a656e6b696e732d6c6f676f2d7469746c652e737667" height="65"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1280px-Jenkins_logo_with_title.svg.png" height="65"/ alt="Jenkins">
 <a href="https://www.ansible.com/" target="_blank" title="Ansible is Simple IT Automation">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"  height="60" /> 
 </a>
@@ -80,6 +80,9 @@
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" title="SonarQube">
     <img src="https://wiki.eclipse.org/images/8/88/Sonarqube.png" alt="SonarQube" height="75" />
+  </a>
+  <a href="https://www.snowflake.com/en/" target="_blank" title="Snowflake Data Warehouse">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" alt="Snowflake Data Warehouse" height="75" />
   </a>
 </p>
 
