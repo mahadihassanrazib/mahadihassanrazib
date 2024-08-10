@@ -22,7 +22,7 @@
 <br>
 <br>
 
-#### DevSecOps:
+<h3>DevSecOps:</h3>
 <p float="left">
   <a href="[https://aws.amazon.com/](https://ubuntu.com/download/desktop/thank-you?version=22.04.2&architecture=amd64)" target="_blank" title="Linux">
     <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
