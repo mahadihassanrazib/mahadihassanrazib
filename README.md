@@ -22,7 +22,7 @@
 <br>
 <br>
 
-#### DevOps:
+#### DevSecOps:
 <p float="left">
   <a href="[https://aws.amazon.com/](https://ubuntu.com/download/desktop/thank-you?version=22.04.2&architecture=amd64)" target="_blank" title="Linux">
     <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />
@@ -39,7 +39,14 @@
 <a href="https://kubernetes.io/" target="_blank" title="Kubernetes">
 <img src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo-500x281.jpg"  height="75" /> 
 </a>
-  <a href="https://cloudnative-pg.io/" target="_blank" title="Cloudnativepg">
+  <a href="https://istio.io/" target="_blank" title="Istio Service Mesh">
+<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*l9PyOF1BIHD-6EpVSO5Gog.png"  height="75" /> 
+</a>
+</a>
+  <a href=https://falco.org/" target="_blank" title="Falco | Detect security threats in real time">
+<img src="https://cdn-images-1.medium.com/max/1200/1*jsAXZk--dGhypEnpKeekXw.png"  height="75" /> 
+</a>
+<a href="https://cloudnative-pg.io/" target="_blank" title="Cloudnativepg">
 <img src="https://dok.community/wp-content/uploads/2022/05/Screenshot-2022-05-14-at-3.14.26-PM.png"  height="75" /> 
 </a>
 <a href="https://www.jenkins.io/" target="_blank" title="jenkins">
