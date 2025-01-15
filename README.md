@@ -1,8 +1,8 @@
 <h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am a Certified Kubernetes Administrator (CKA) and currently working as a Senior DevSecOps Engineer at BJIT Group. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 3-5 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 8+ years of professional working experiences. 🎯</p>
+<p>I am a seasoned DevOps Engineer and working as a Senior DevOps Engineer at BJIT Group. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 3-5 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 9+ years of professional working experiences. 🎯</p>
 
-<h3>** I am mostly work with Cloud based build and release automation technologies. 🚀 **</h3>
+<h3>** I am mostly work with Cloud-native applications build and release automation technologies. 🚀 **</h3>
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"></code>
 <code><img height="50" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" title="Golang"></code>
@@ -95,9 +95,8 @@
 
 #### 📫 &nbsp; Reach me:
 
-[![Facebbok](https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook)](https://web.facebook.com/agun21st/)
-[![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:mahadihassanrazib@gmail.com)
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/devopsrazib/)
+[![Gmail](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:mahadihassanrazib@gmail.com)
 
 <img width="550px" alt="Md. Mahadi Hassan Razib Github Status"  src="https://github-readme-stats.vercel.app/api?username=agun21st&show_icons=true"/>
 <code><a href="https://app.daily.dev/agun21st"><img src="https://api.daily.dev/devcards/b3cd31a79850494aaf246ea93c8f3fd5.png?r=zl0" width="400" alt="Md. Mahadi Hassan Razib's Dev Card"/></a></code></br></br>
