@@ -1,8 +1,8 @@
 <h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am a seasoned DevOps Engineer and working as a Senior DevOps Engineer at BJIT Group. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 3-5 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 9+ years of professional working experiences. 🎯</p>
+<p>I am a seasoned DevOps Engineer and working as a Senior DevOps Engineer at BJIT Group. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 3-5 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 8 years of professional working experiences.</p>
 
-<h3>** I am mostly work with Cloud-native applications build and release automation technologies. 🚀 **</h3>
+<h3>I am mostly work with Cloud-native applications build and release automation technologies.</h3>
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript"></code>
 <code><img height="50" src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" title="Golang"></code>
@@ -19,6 +19,7 @@
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" title="Postgress SQL"/></code>
 <code><img src="https://esl.github.io/MongooseDocs/latest/MongooseIM_logo.png" height="60" title="MongooseIM"/></code>
 <code><img src="https://miro.medium.com/v2/format:webp/1*KQyachTTd_FXWyHAUzyZzg.png" height="60" title="MinIO S3 Object Storage"/></code>
+<code><a href="https://www.credly.com/badges/42f12917-394b-4e2c-b151-7ca0e170e352" target="_blank" title="CKA Certificate Badge"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="150"/></a></code>
 <br>
 <br>
 
