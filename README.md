@@ -19,7 +19,7 @@
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" title="Postgress SQL"/></code>
 <code><img src="https://esl.github.io/MongooseDocs/latest/MongooseIM_logo.png" height="60" title="MongooseIM"/></code>
 <code><img src="https://miro.medium.com/v2/format:webp/1*KQyachTTd_FXWyHAUzyZzg.png" height="60" title="MinIO S3 Object Storage"/></code>
-<code><a href="https://www.credly.com/badges/42f12917-394b-4e2c-b151-7ca0e170e352" target="_blank" title="CKA Certificate Badge"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="150"/></a></code>
+<code><a href="https://www.credly.com/badges/42f12917-394b-4e2c-b151-7ca0e170e352" target="_blank" title="CKA Certificate Badge"><img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="100"/></a></code>
 <br>
 <br>
 
