@@ -1,6 +1,6 @@
 <h2>👋  Hi their, I'm Md. Mahadi Hassan Razib</h2>
 
-<p>I am a seasoned DevOps Engineer and working as a Senior DevOps Engineer at BJIT Group. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 5-10 members DevOps and Cloud team. Application Build and Release Process with Jenkins and AgroCD. I am Passionate about Cloud Technologies, production-ready microservices design applications pipelines more than 10 years of professional working experiences.</p>
+<p>I am a seasoned DevSecOps Engineer and working as a Lead DevOps Engineer at BJIT Limited. Understand business requirements and prepare proposed solution concept of DevOps and cloud services. Design complete solution of DevOps services from initialization to deployment. Lead of 5-10 members DevOps and Cloud team. Application Build and Release Process with CI/CD and GitOps I am Passionate about Multi-Cloud Technologies, production-ready microservices design applications pipelines more than 10 years of professional working experiences.</p>
 
 <h3>I am mostly work with Cloud-native applications build and release automation technologies.</h3>
 <code><a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" title="HTML5 CSS3"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="50"/></a></code>
@@ -30,6 +30,9 @@
   </a>
 <a href="https://aws.amazon.com/" target="_blank" title="AWS">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+</a>
+<a href="https://portal.azure.com/" target="_blank" title="Azure Cloud">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/3840px-Microsoft_Azure_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"  height="60" />
 </a>
 <a href="https://www.digitalocean.com" target="_blank" title="Digital Ocean">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
